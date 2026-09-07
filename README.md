@@ -248,7 +248,4 @@ pip install -r requirements.txt
 If Pygame prints an AVX2 warning, it is normally a performance warning rather than a program-breaking error.
 
 ## License
-
-You can add your preferred license before publishing the project publicly.
-
-For example, if you want an open-source project, consider adding an MIT License file.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
